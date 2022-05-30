@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="eng" type="id">eng</item>
+    <item name="hin" type="id">hin</item>
+    <item name="textView" type="id">tv</item>
+</resources>
